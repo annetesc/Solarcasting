@@ -1,0 +1,7 @@
+{
+    "original_folder": "./inforiego_csv_raw",
+	"destination_folder": "./inforiego_csv_cleaned",
+	"mc_Clear_radiation_folder": "./Mc_Clear/radiation_data",
+	"mc_Clear_angles_folder": "./Mc_Clear/solar_angles",
+	"csv_file": "Jan_2014_Dec_2018.csv"
+}

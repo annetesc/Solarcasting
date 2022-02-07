@@ -1,0 +1,9 @@
+{
+    "train_test_data_path": "C:/Code/_t.11/csv.11/training_data/train_test_data",
+	"test_files": ["df_X_test.csv","df_y_test.csv"],	
+	"estimator_model": "ARX",
+	"trained_models_folder": "./trained_models/",
+	"text_output_folder" : "./results/predictions",
+    "predictions_data_path": "./results/textfiles"    
+	
+ }

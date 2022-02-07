@@ -1,0 +1,13 @@
+{
+    "original_folder": "original_files/inforiego_CSV_file_cleaned",
+	"X_y_files": [df_X.csv, df_y.csv, df_y_persist.csv],
+	"start_date_train": 20040101,
+    "end_date_train": 20151231,
+	"start_date_test": 20160101,
+    "end_date_test": 20181231,
+	"n_samples" : 3,
+	"radiation_differences" : false,
+	"include_azimuth_last_sample" : true,
+	"forecast_horizon": [0.5, 1.0, 1.5, 2.0, 3.0, 4.0],
+    "destination_folder": "./training_data/train_test_data"
+}

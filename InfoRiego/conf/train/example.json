@@ -1,0 +1,7 @@
+{
+    "train_test_data_path": "./train_test_data",
+	"train_files": [X_train.csv, y_train.csv],		
+	"estimator_model": "ANN",
+    "model_destination_folder": "./trained_models/"    
+	
+ }
