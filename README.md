@@ -1,4 +1,4 @@
-# code_paper
+# Solarcasting
 Code for the scientific paper 'Spatio-Temporal Resolution of Irradiance Samples in Machine Learning Approaches for Irradiance Forecasting', available at https://ieeexplore.ieee.org/document/9035506
 
 Code for Spatio-temporal resolution of irradiance samples in Machine Learning approaches for irradiance forcasting.
